@@ -34,8 +34,9 @@ body{
 #container h1{
   font-size: 20px;
 }
-
-#post{
-  background: white;
-  padding: 1em;
+#footer{
+  background: #777;
+  color: #fff;
+  text-align: center;
+  padding: 0.5em;
 }
