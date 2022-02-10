@@ -11,6 +11,7 @@ Un blog increible para el curso de Git y GitHub.
 * Las personalidades múltiples a la hora de programar.
 * La rata es lo máximo.
 * Incluye ejemplos de la rata
+* Disponible para la rata 300
 
 En fin locuras de La Rara 300
 `print("LaRata300")`
