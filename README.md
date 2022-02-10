@@ -9,6 +9,7 @@ Un blog increible para el curso de Git y GitHub.
 * El verdadero amor por las buenas prácticas.
 * Trucos muy locos.
 * Las personalidades múltiples a la hora de programar.
+* La rata es lo máximo.
 
 En fin locuras de La Rara 300
 `print("LaRata300")`
